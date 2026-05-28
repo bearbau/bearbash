@@ -15,4 +15,4 @@ $ ./script.sh
 ```
 $ vim script.sh
 ```
-<p align="center"><sup><i>"how do i close vim?"</i></sup><br></p>
+<p align="center"><sup><i>"how do i exit vim?"</i></sup><br></p>
