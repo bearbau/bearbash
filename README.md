@@ -9,4 +9,10 @@ $ cd /folder
 $ chmod +x script.sh
 $ ./script.sh
 ```
+
+# how to edit?
+<sub><b>bash</b><i>&emsp;(replace `script` to the name of the script)</i></sub>
+```
+$ vim script.sh
+```
 <p align="center"><sup><i>"how do i close vim?"</i></sup><br></p>
